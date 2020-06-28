@@ -7,3 +7,17 @@
 //
 
 import Foundation
+
+protocol AuthenticationProtocol {
+    var formIsVoid: Bool { get }
+}
+
+struct LoginViewModel: AuthenticationProtocol {
+    
+    var email: String?
+    var password: String?
+    
+    var formIsVoid: Bool {
+        return email?.isEmpty == false && password?.isEmpty == false
+    }
+}

@@ -6,4 +6,7 @@
 //  Copyright © 2020 Taisei Sakamoto. All rights reserved.
 //
 
-import Foundation
+import Firebase
+
+public let COLLECTION_MESSAGES = Firestore.firestore().collection("Messages")
+public let COLLECTION_USERS = Firestore.firestore().collection("Users")
