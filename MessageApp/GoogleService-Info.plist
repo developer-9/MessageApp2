@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>768296913781-fnr121cl24pijmrkdbrqc7o6eftlv09o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.768296913781-fnr121cl24pijmrkdbrqc7o6eftlv09o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8Z1GIDDyP66rZ2YVZ4YhjCXzRoCgnr7w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>768296913781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lovely.MessageApp</string>
+	<key>PROJECT_ID</key>
+	<string>messageapp-71d1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messageapp-71d1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:768296913781:ios:617a039ce171c3f267613c</string>
+	<key>DATABASE_URL</key>
+	<string>https://messageapp-71d1b.firebaseio.com</string>
+</dict>
+</plist>
